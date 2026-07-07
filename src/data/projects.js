@@ -82,7 +82,7 @@ export const skills = [
 export const experience = [
   {
     title: 'Cloud Associate Intern',
-    time: '2024',
+    time: '2026',
     details: 'Built cloud-native workflows and supported automation initiatives.',
   },
   {
