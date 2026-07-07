@@ -29,11 +29,7 @@ export default function Projects() {
                     </span>
                   ))}
                 </div>
-                <div className="flex flex-wrap gap-3">
-                  <a href={project.links.github} className="rounded-full border border-white/15 px-4 py-2 font-medium text-slate-100 transition hover:translate-x-1">
-                    GitHub
-                  </a>
-                </div>
+                {/* GitHub button intentionally removed */}
               </div>
             </motion.article>
           ))}
